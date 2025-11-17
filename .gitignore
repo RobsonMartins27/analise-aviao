@@ -1,0 +1,16 @@
+# Excluir o ficheiro de resultado gerado pelo nosso script
+acidentes_por_ano.csv
+
+# Excluir dados de ambiente do Python (muito comum em projetos)
+venv/
+.venv/
+*.env
+
+# Excluir cache e ficheiros de compilação do Python
+__pycache__/
+*.pyc
+
+# Excluir ficheiros temporários do sistema operativo (Windows/macOS)
+*~
+.DS_Store
+Thumbs.db
