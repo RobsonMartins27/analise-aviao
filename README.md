@@ -17,6 +17,7 @@ Este projeto analisa o dataset "**airplane.csv**" para identificar tendências h
 A análise mostra que o **número absoluto de acidentes** aéreos atingiu o pico por volta dos anos 1970/1990 e, desde então, tem **diminuído drasticamente**.
 
 Considerando o **crescimento massivo** no número total de voos ✈️, esta tendência comprova que a aviação se tornou **muito mais segura** ao longo das décadas (a taxa de acidentes por voo caiu).
+<img width="640" height="480" alt="grafico_acidentes_aereos" src="https://github.com/user-attachments/assets/e545e6ea-d10a-447a-8e49-74786084db20" />
 
 
 
