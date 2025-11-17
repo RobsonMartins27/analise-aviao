@@ -31,5 +31,5 @@ Considerando o **crescimento massivo** no número total de voos ✈️, esta ten
     ```
 4.  Execute o script:
     ```bash
-    python analise.py
+    python main.py
     ```
